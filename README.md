@@ -19,6 +19,6 @@ body {
 </head>
 <body>
 <h1 class="text">RUST</h1>
-<h1 href="https://nightwing098.github.io/check/cpp.html" class="text">C++</h1>
+<h1 class="text"><a href="https://nightwing098.github.io/check/cpp.html">C++</a></h1>
 </body>
 </html>
