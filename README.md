@@ -1,9 +1,24 @@
 <html>
 <head>
-<title>Display Text</title>
+<title>C H E A T S H E E T S </title>
+<style>
+body {
+  background-color: #222;
+}
+
+.text {
+  color: #fff;
+  font-size: 40px;
+  text-align: center;
+}
+
+.text:hover {
+  color: #00ff00;
+}
+</style>
 </head>
 <body>
-<h1>This is some text</h1>
-<p>This is another paragraph of text.</p>
+<h1 class="text">RUST</h1>
+<h1 class="text">C++</h1>
 </body>
 </html>
